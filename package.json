@@ -42,6 +42,7 @@
     "@ngx-translate/core": "^13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
     "@ngxs-labs/dispatch-decorator": "^2.1.1",
+    "@ngxs-labs/immer-adapter": "^3.0.5",
     "@ngxs/devtools-plugin": "^3.7.2",
     "@ngxs/form-plugin": "^3.7.2",
     "@ngxs/logger-plugin": "^3.7.2",
